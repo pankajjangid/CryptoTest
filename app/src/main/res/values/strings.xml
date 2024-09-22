@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoTest</string>
+    <string name="insert_success">Data inserted successfully</string>
+    <string name="insert_failure">Data insertion failed</string>
+    <string name="clear_success">Data cleared successfully</string>
+    <string name="clear_failure">Data clearing failed</string>
+</resources>
