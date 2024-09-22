@@ -39,3 +39,8 @@ This project uses the following libraries:
 - Koin: 4.0.0
 - Gson: 2.11.0
 - Truth: 1.1.3
+
+### Demo Video
+
+<video src="https://github.com/user-attachments/assets/7c29aa4a-65f4-4ee6-bf3d-6b7ca9b57011" />
+
